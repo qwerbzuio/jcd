@@ -1,8 +1,8 @@
-name = "Jackie"
+name = "JCD"
 license = "MIT"
-description = "Jacqueline Nolis' modification of the vimux blank theme"
+description = "Jazzclub Darmstadt' modification of the vimux blank theme"
 homepage = "https://github.com/vimux/blank/"
 
 [author]
-  name = "Jacqueline Nolis"
-  homepage = "https://github.com/jnolis"
+  name = "Jazzclub Darmstadt"
+  homepage = "https://github.com/qwerbzuio/jcd"
